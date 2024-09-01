@@ -17,4 +17,4 @@ tof.read()
 # 3. To disable/stop the tof:
 
 tof.stop()
-
+print("stop")
